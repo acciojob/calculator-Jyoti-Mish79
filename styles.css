@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+.button{
+    padding:20px;
+    margin:0 3px;
+    border:2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66PX;
+}
+.container{
+    padding:50px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.row input{
+    margin:0;
+    padding:0;
+    padding:34px 60px;
+    border:2px solid black;
+    border-radius: 5px;
+    font size:20px;
+}
+.row{
+    margin:8px 0;
+
+}
